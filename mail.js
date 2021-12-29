@@ -1,11 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBfoAN9yxFNnCOznz0z8wAxSQlV783FWxA",
-  authDomain: "tunelo-music.firebaseapp.com",
-  databaseURL: "https://tunelo-music-default-rtdb.firebaseio.com",
-  projectId: "tunelo-music",
-  storageBucket: "tunelo-music.appspot.com",
-  messagingSenderId: "562353448162",
-  appId: "1:562353448162:web:831f7027a673428d9c2abb"
+//   Put Your Database Config Here
 };
 
 // initialize firebase
